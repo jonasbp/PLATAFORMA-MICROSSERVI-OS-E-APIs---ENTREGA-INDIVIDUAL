@@ -1,6 +1,9 @@
 # PLATAFORMA MICROSSERVIÇOS E APIs - ENTREGA INDIVIDUAL
 JONAS BONFÁ PELEGRINA 2025.1
 
+PROJETO EM GRUPO REALIZADO COM A GIULIA GOMES VALENTE
+LINK DO PROJETO EM GRUPO
+
 EXCHANGE
 
 https://github.com/jonasbp/plataformas_microservicoes_apis_individual_exchange
@@ -45,6 +48,8 @@ https://github.com/jonasbp/plataformas_microservicoes_apis_individual_gateway-se
 
 # Observabilidade no EKS com AWS CloudWatch
 
+![Descrição da imagem](assets/imagens/eks.png)
+
 Para garantir a observabilidade e o monitoramento da nossa aplicação executada no Amazon EKS, utilizamos o serviço AWS CloudWatch, que é a ferramenta nativa da AWS para coleta de métricas, logs e eventos.
 
 Realizamos toda a configuração de integração entre o EKS e o CloudWatch, o que nos permitiu:
@@ -59,6 +64,9 @@ FOTOFOTO
 
 # Uso de Load Balancer com EKS na AWS
 
+![Descrição da imagem](assets/imagens/load.png)
+
+
 Em nossa arquitetura com Amazon EKS, utilizamos um Load Balancer (balanceador de carga) para distribuir o tráfego de forma eficiente entre os pods da aplicação. Essa configuração foi essencial para garantir alta disponibilidade, resiliência e escalabilidade no acesso ao sistema.
 
 A integração foi feita da seguinte forma:
@@ -70,6 +78,9 @@ A integração foi feita da seguinte forma:
 Essa abordagem nos permitiu escalar horizontalmente com facilidade e oferecer uma experiência de acesso confiável para os usuários finais.
 
 # Análise de Vulnerabilidades com SonarQube
+
+![Descrição da imagem](assets/imagens/sonar.png)
+
 
 Para reforçar a segurança e a qualidade do nosso código, integrarmos nosso repositório ao SonarQube, uma ferramenta amplamente utilizada para análise estática de código. Com isso, conseguimos realizar vulnerability scanning e identificar problemas de segurança, bugs e más práticas logo nas primeiras etapas do desenvolvimento.
 

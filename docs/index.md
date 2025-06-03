@@ -48,7 +48,7 @@ https://github.com/jonasbp/plataformas_microservicoes_apis_individual_gateway-se
 
 # Observabilidade no EKS com AWS CloudWatch
 
-![Descrição da imagem](assets/imagens/eks.png)
+![Descrição da imagem](assets/images/eks.png)
 
 Para garantir a observabilidade e o monitoramento da nossa aplicação executada no Amazon EKS, utilizamos o serviço AWS CloudWatch, que é a ferramenta nativa da AWS para coleta de métricas, logs e eventos.
 
@@ -64,7 +64,7 @@ FOTOFOTO
 
 # Uso de Load Balancer com EKS na AWS
 
-![Descrição da imagem](assets/imagens/load.png)
+![Descrição da imagem](assets/images/load.png)
 
 
 Em nossa arquitetura com Amazon EKS, utilizamos um Load Balancer (balanceador de carga) para distribuir o tráfego de forma eficiente entre os pods da aplicação. Essa configuração foi essencial para garantir alta disponibilidade, resiliência e escalabilidade no acesso ao sistema.
@@ -79,7 +79,7 @@ Essa abordagem nos permitiu escalar horizontalmente com facilidade e oferecer um
 
 # Análise de Vulnerabilidades com SonarQube
 
-![Descrição da imagem](assets/imagens/sonar.png)
+![Descrição da imagem](assets/images/sonar.png)
 
 
 Para reforçar a segurança e a qualidade do nosso código, integrarmos nosso repositório ao SonarQube, uma ferramenta amplamente utilizada para análise estática de código. Com isso, conseguimos realizar vulnerability scanning e identificar problemas de segurança, bugs e más práticas logo nas primeiras etapas do desenvolvimento.

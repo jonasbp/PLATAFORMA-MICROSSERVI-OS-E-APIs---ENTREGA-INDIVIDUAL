@@ -5,6 +5,24 @@ PROJETO EM GRUPO REALIZADO COM A GIULIA GOMES VALENTE
 
 https://giuvallente.github.io/docs-team/team/main/
 
+
+Checkpoints
+1. CRUD [OK]✅
+2. Gateway [OK]✅
+3. Security [OK]✅
+4. DevOps [OK]✅
+5. Orchestration [OK]✅
+
+Individual
+1. Exchange API [OK]✅
+2. Product API [OK]✅
+3. Order API [OK]✅
+4. Jenkins [OK]✅
+5. MiniKube [OK]✅
+Bottlenecks (No fim da página) [OK]✅
+
+
+
 EXCHANGE
 
 https://github.com/jonasbp/plataformas_microservicoes_apis_individual_exchange
